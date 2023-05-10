@@ -1,5 +1,6 @@
 # this is my super cool paper written by me  -brainhacks 2023
 Written by: yours truly
+And all of my friends, who are epic! :D
 
 # yessir it do be super cool - the intro
 This is a very important problem that I've been working on.
