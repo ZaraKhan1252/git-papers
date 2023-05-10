@@ -8,6 +8,9 @@ more things yada yada git things
 #Results
 really, really cool results. 
 
+#Figures
+SO beautiful, really, Just the absolute best.
+
 #References
 Smith, J (2020). 
 Markello, R (2019).
